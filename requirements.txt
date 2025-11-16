@@ -1,0 +1,26 @@
+# Big Data Cruncher - Marketplace Fraud Detection
+# Python package requirements
+
+# Core data analysis
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Statistics
+statsmodels>=0.14.0
+
+# Visualization (optional, not used in current implementation but useful for future)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+
+# JSON handling (built-in, listed for completeness)
+# json
+
+# Note: All scripts use minimal dependencies to ensure compatibility
+# and fast execution in any environment

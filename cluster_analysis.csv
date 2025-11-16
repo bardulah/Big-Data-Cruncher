@@ -1,0 +1,8 @@
+cluster,Count,Avg_Price,Sale_Rate_%,Fraud_Rate_%,Avg_Seller_Items,Avg_Rating,Cluster_Name
+0,1587,111.82,82.92,0.0,16.09,4.05,Mixed Profile 0
+1,448,234.63,79.24,0.0,30.26,4.03,Mixed Profile 1
+2,3294,111.87,100.0,0.0,13.44,4.01,Mixed Profile 2
+3,2311,118.25,0.0,0.0,13.52,3.85,Struggling Sellers (Low Success)
+4,476,1177.09,67.44,0.0,18.46,3.99,Luxury/High-Risk Items
+5,1162,116.49,74.78,0.0,59.03,4.29,Mixed Profile 5
+6,722,224.99,54.29,0.0,16.8,4.03,Mixed Profile 6

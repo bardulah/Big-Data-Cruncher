@@ -1,0 +1,4 @@
+Rule,Support,Confidence,Interpretation
+IF (electronics AND price_drops>2) THEN sold,0.0357,0.8403361344537815,Electronics with price corrections tend to sell
+IF (new_seller AND short_desc AND high_counterfeit) THEN fraud,0.0002,0.0,New sellers with minimal descriptions are high fraud risk
+IF (Facebook AND relistings>2) THEN unsold,0.022,0.3090909090909091,Multiple relistings on Facebook often fail to sell
